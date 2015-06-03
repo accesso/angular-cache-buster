@@ -1,9 +1,10 @@
 {
-  "name": "angular-cache-buster",
-  "version": "0.4.3",
-  "homepage": "https://github.com/saintmac/angular-cache-buster",
+  "name": "accesso-angular-cache-buster",
+  "version": "0.5.0",
+  "homepage": "https://github.com/accesso/angular-cache-buster",
   "authors": [
-    "saintmac <martin.saintmac@gmail.com>"
+    "saintmac <martin.saintmac@gmail.com>",
+    "danielneri <daniel.neri@accesso.com"
   ],
   "description": "Cache Buster for AngularJS $http (and $resource). Especially useful with Internet Explorer (IE8, IE9)",
   "main": "angular-cache-buster.js",

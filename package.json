@@ -1,6 +1,6 @@
 {
-  "name": "angular-cache-buster",
-  "version": "0.4.3",
+  "name": "accesso-angular-cache-buster",
+  "version": "0.5.0",
   "description": "Cache Buster for AngularJS $http (and $resource). Especially useful with Internet Explorer (IE8, IE9)",
   "main": "angular-cache-buster.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/saintmac/angular-cache-buster.git"
+    "url": "git://github.com/accesso/angular-cache-buster.git"
   },
   "keywords": [
     "angularjs",
@@ -22,12 +22,12 @@
     "ie9"
   ],
   "author": "saintmac <martin.saintmac@gmail.com> (Martin Saint-Macary, http://vyte.in)",
-  "contributors": ["Alfred Bratterud <alfred.bratterud@hioa.no>"],
+  "contributors": ["Alfred Bratterud <alfred.bratterud@hioa.no>", "Daniel Neri <daniel.neri@accesso.com>"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saintmac/angular-cache-buster/issues"
+    "url": "https://github.com/accesso/angular-cache-buster/issues"
   },
-  "homepage": "https://github.com/saintmac/angular-cache-buster",
+  "homepage": "https://github.com/accesso/angular-cache-buster",
   "devDependencies": {
     "karma-script-launcher": "~0.1.0",
     "karma-chrome-launcher": "~0.1.3",
