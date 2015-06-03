@@ -3,7 +3,7 @@ Especially useful with Internet Explorer (IE8, IE9)
 
 # install
 
-    bower install angular-cache-buster --save
+    bower install accesso-angular-cache-buster --save
 
 In your app module definition, add `ngCacheBuster` as a dependency
 
