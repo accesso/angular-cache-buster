@@ -45,7 +45,7 @@ angular.module('ngCacheBuster', [])
 			config.url = config.url.replace(/[?|&]cacheBuster=\d+/,'');
 			//Some url's allready have '?' attached
 			config.url+=config.url.indexOf('?') === -1 ? '?' : '&'
-			config.url += 'cacheBuster=' + d.getTime();
+			config.url += 'cacheBuster=' + window.version;
 		    }
 		    
 		    if (logRequests) {
