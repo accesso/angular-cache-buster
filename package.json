@@ -1,6 +1,6 @@
 {
   "name": "accesso-angular-cache-buster",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Cache Buster for AngularJS $http (and $resource). Especially useful with Internet Explorer (IE8, IE9)",
   "main": "angular-cache-buster.js",
   "scripts": {
@@ -22,7 +22,10 @@
     "ie9"
   ],
   "author": "saintmac <martin.saintmac@gmail.com> (Martin Saint-Macary, http://vyte.in)",
-  "contributors": ["Alfred Bratterud <alfred.bratterud@hioa.no>", "Daniel Neri <daniel.neri@accesso.com>"],
+  "contributors": [
+    "Alfred Bratterud <alfred.bratterud@hioa.no>",
+    "Daniel Neri <daniel.neri@accesso.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/accesso/angular-cache-buster/issues"
